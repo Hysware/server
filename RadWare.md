@@ -11,25 +11,19 @@
 
 # RadWare
 
-**64 服务器上安装了 RadWare 5.3 程序和耶鲁大学的改进版本**
+**服务器上安装了 RadWare 程序**
 
 ## 配置
 
-使用标准版本：在个人目录下的 *.bashrc* 文件中添加以下配置
+目前已经为所有人同一配置了软件路径，该版本可进行8192道的二重符合矩阵的投影，开窗(slicehex, xmeschex)，位于/etc/profile.d/software_path.sh中：
 
 ```bash
-source /opt/RadWare053/.radware.bashrc
-export PATH=$PATH:/opt/RadWare053/bin
+## Radware
+export PATH=$PATH:/opt/Radware/rw05-main/src
+
 ```
 
 
-
-使用改进版本：在个人目录下的 *.bashrc* 文件中添加以下配置
-
-```bash
-source /opt/RadWareYL/.radware.bashrc
-export PATH=$PATH:/opt/RadWareYL/bin
-```
 
 
 
