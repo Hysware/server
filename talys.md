@@ -44,7 +44,7 @@ TALYS 是一个用于 **核反应分析与预测** 的计算机程序，适用�
 
 具体介绍可参考：https://nds.iaea.org/talys/，
 
-[talys说明书](https://nds.iaea.org/talys/tutorials/talys.pdf)
+https://nds.iaea.org/talys/tutorials/talys.pdf
 
 
 
